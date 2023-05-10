@@ -63,9 +63,9 @@ class _HomePageState extends State<HomePage> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: const [
-                  Text("Welcome Home"),
+                  Text("Welcome to your Home"),
                   Text(
-                    "Marco Rocha",
+                    "Marco mike Rocha",
                     style: TextStyle(fontSize: 20),
                   ),
                 ],
